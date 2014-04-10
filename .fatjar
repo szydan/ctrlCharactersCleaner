@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Apr 09 15:59:43 IST 2014
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=ccc.jar
+manifest.mergeall=true
+manifest.mainclass=com.example.ccc.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
